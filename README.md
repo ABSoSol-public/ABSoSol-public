@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Alfred Becker just call my shortname Alf
 - 👀 I’m interested in learning and sharing knowledge with all
 - 🌱 Our all lifetimejob is learning the whole time - with my ABSoSol account i like to share ideas and small projects
-- 💞️ Lets code together and share your knowledge with the world - HACK the Planet
+- 💞️ Lets code together and share your knowledge with the world - HACK THE PLANET
 - 📫 mailto: alfred.becker@absosol.de
 
 <!---
